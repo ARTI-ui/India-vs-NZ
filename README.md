@@ -14,7 +14,7 @@ This Excel-based project analyzes candiadate of india and NZ to uncover trends i
 - **Salary Distribution** – Histograms & Box Plots showed salary spread and variation.
 - **Performance & Rating Relationship** – Explored how salary relates to performance ratings.
 - **Staff Growth Over Time** – Trend analysis of workforce expansion.
-- **Regional Scorecard** – Compared call center metrics between **New Zealand and India**.
+- **Regional Scorecard** – Compared between **New Zealand and India**.
 
 
 ## 🔍 How to Use This Report?
