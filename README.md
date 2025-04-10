@@ -24,3 +24,4 @@ This Excel-based project analyzes candiadate of india and NZ to uncover trends i
 4. Explore **pivot tables, charts, and dashboards** to gain insights.
 5. Modify filters and parameters to view different scenarios.
 
+![Screenshot (5)](https://github.com/user-attachments/assets/fa91ef66-357f-46f7-b775-b4e34b2614c8)
